@@ -1,0 +1,36 @@
+pid,pname,price,category
+PR_0501,Wireless Mouse,799,Electronics
+PR_0502,Bluetooth Speaker,1499,Electronics
+PR_0503,USB Keyboard,999,Electronics
+PR_0504,Power Bank,1299,Electronics
+PR_0505,Smart Watch,2499,Electronics
+PR_0506,USB-C Cable,399,Electronics
+PR_0507,Earbuds,1799,Electronics
+PR_0508,LED Desk Lamp,899,Electronics
+PR_0509,Notebook,120,Stationary
+PR_0510,Ball Pen Pack,180,Stationary
+PR_0511,Gel Pen Set,150,Stationary
+PR_0512,Highlighter Set,220,Stationary
+PR_0513,Sketch Pens,250,Stationary
+PR_0514,Sticky Notes,100,Stationary
+PR_0515,Diary,350,Stationary
+PR_0516,Photo Frame,450,Home Decor
+PR_0517,Wall Clock,899,Home Decor
+PR_0518,Cushion Cover,399,Home Decor
+PR_0519,Table Vase,650,Home Decor
+PR_0520,Decorative Candle,299,Home Decor
+PR_0521,Wall Hanging,799,Home Decor
+PR_0522,Coffee Mug,299,Utensils
+PR_0523,Dinner Plate Set,899,Utensils
+PR_0524,Steel Water Bottle,599,Utensils
+PR_0525,Frying Pan,1299,Utensils
+PR_0526,Kitchen Knife Set,999,Utensils
+PR_0527,Running Shoes,2199,Foot wear
+PR_0528,Casual Sneakers,2499,Foot wear
+PR_0529,Formal Shoes,2899,Foot wear
+PR_0530,Men T-Shirt,699,Men clothing
+PR_0531,Men Jeans,1599,Men clothing
+PR_0532,Men Casual Shirt,1199,Men clothing
+PR_0533,Women Kurti,999,Women Clothing
+PR_0534,Women Jeans,1499,Women Clothing
+PR_0535,Women Handbag,1799,Women Clothing

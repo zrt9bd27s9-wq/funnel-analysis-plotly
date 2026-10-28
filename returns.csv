@@ -1,0 +1,56 @@
+rid,order_id,return_date,reason
+RID_001,ORD_325,2025-05-23,missing parts
+RID_002,ORD_136,2024-04-15,missing parts
+RID_003,ORD_397,2025-05-27,missing parts
+RID_004,ORD_431,2025-08-01,poor quality
+RID_005,ORD_375,2025-06-13,missing parts
+RID_006,ORD_177,2025-04-14,missing parts
+RID_007,ORD_483,2025-08-26,poor quality
+RID_008,ORD_075,2025-07-31,product not working
+RID_009,ORD_018,2025-06-13,poor quality
+RID_010,ORD_070,2024-04-19,wrong item delivered
+RID_011,ORD_015,2024-11-16,missing parts
+RID_012,ORD_269,2024-11-02,wrong item delivered
+RID_013,ORD_221,2024-08-19,color mismatch
+RID_014,ORD_041,2025-04-09,color mismatch
+RID_015,ORD_062,2025-02-06,poor quality
+RID_016,ORD_408,2025-09-15,poor quality
+RID_017,ORD_519,2025-07-13,product not working
+RID_018,ORD_294,2024-09-24,poor quality
+RID_019,ORD_514,2025-11-09,color mismatch
+RID_020,ORD_426,2024-08-06,wrong item delivered
+RID_021,ORD_434,2024-05-09,wrong item delivered
+RID_022,ORD_412,2025-08-01,color mismatch
+RID_023,ORD_085,2025-08-23,product not working
+RID_024,ORD_550,2024-03-31,wrong item delivered
+RID_025,ORD_157,2024-10-08,missing parts
+RID_026,ORD_285,2024-05-04,wrong item delivered
+RID_027,ORD_086,2024-06-16,missing parts
+RID_028,ORD_318,2025-08-28,poor quality
+RID_029,ORD_081,2024-04-01,missing parts
+RID_030,ORD_524,2024-08-02,product not working
+RID_031,ORD_209,2025-01-27,poor quality
+RID_032,ORD_160,2024-05-01,color mismatch
+RID_033,ORD_335,2025-06-11,poor quality
+RID_034,ORD_401,2024-04-19,poor quality
+RID_035,ORD_068,2025-04-29,missing parts
+RID_036,ORD_448,2025-10-18,missing parts
+RID_037,ORD_245,2024-04-03,product not working
+RID_038,ORD_060,2025-07-19,poor quality
+RID_039,ORD_251,2024-08-13,color mismatch
+RID_040,ORD_089,2025-02-08,product not working
+RID_041,ORD_445,2024-12-20,product not working
+RID_042,ORD_119,2025-06-06,wrong item delivered
+RID_043,ORD_465,2024-10-08,product not working
+RID_044,ORD_057,2024-06-24,color mismatch
+RID_045,ORD_317,2024-11-26,product not working
+RID_046,ORD_180,2025-01-17,color mismatch
+RID_047,ORD_123,2024-05-11,wrong item delivered
+RID_048,ORD_013,2024-09-07,color mismatch
+RID_049,ORD_141,2025-04-02,missing parts
+RID_050,ORD_012,2025-11-08,poor quality
+RID_051,ORD_168,2025-02-05,poor quality
+RID_052,ORD_509,2025-01-23,wrong item delivered
+RID_053,ORD_356,2024-08-24,missing parts
+RID_054,ORD_536,2025-01-27,color mismatch
+RID_055,ORD_530,2024-08-21,color mismatch
